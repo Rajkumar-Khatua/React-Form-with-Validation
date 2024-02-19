@@ -16,7 +16,12 @@ This is a React component for a signup form where users can sign up with their e
 
 2. Run the development server:
 
+
 3. Access the signup form in your browser at `http://localhost:3000`.
+
+## Live Access
+
+You can access the live version of this signup form [here](https://react-form-with-validation.vercel.app/).
 
 ## Technologies Used
 
@@ -26,9 +31,10 @@ This is a React component for a signup form where users can sign up with their e
 
 ## File Structure
 
-- `SignupForm.jsx`: Contains the implementation of the SignupForm component.
+- `SignupForm.js`: Contains the implementation of the SignupForm component.
 - `SignupForm.css`: Stylesheet for styling the SignupForm component.
 - `README.md`: Documentation file explaining the usage and features of the SignupForm component.
+
 
 ## Aknowledgements
 
